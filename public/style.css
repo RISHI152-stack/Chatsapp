@@ -1,0 +1,24 @@
+.chat{
+    background-color: cornflowerblue;
+    display: inline-block;
+    width:500px;
+}
+.msg{
+    background-color: aqua;
+}
+textarea{
+    background-color: aqua;
+    width:450px;
+    margin-left:25px;
+    border-radius:10px;
+}
+textarea:hover{
+    box-shadow:10px 10px 10px black;
+}
+button{
+    background-color:blueviolet;
+    margin-left: 20px;
+}
+p{
+    margin-left:20px;
+}
